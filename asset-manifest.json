@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MutantKaijuz/static/css/main.26feb763.chunk.css",
-    "main.js": "/MutantKaijuz/static/js/main.79898b8b.chunk.js",
-    "main.js.map": "/MutantKaijuz/static/js/main.79898b8b.chunk.js.map",
+    "main.js": "/MutantKaijuz/static/js/main.6cd8495a.chunk.js",
+    "main.js.map": "/MutantKaijuz/static/js/main.6cd8495a.chunk.js.map",
     "runtime-main.js": "/MutantKaijuz/static/js/runtime-main.adb1be2c.js",
     "runtime-main.js.map": "/MutantKaijuz/static/js/runtime-main.adb1be2c.js.map",
-    "static/js/2.0d974b89.chunk.js": "/MutantKaijuz/static/js/2.0d974b89.chunk.js",
-    "static/js/2.0d974b89.chunk.js.map": "/MutantKaijuz/static/js/2.0d974b89.chunk.js.map",
+    "static/js/2.09e229d4.chunk.js": "/MutantKaijuz/static/js/2.09e229d4.chunk.js",
+    "static/js/2.09e229d4.chunk.js.map": "/MutantKaijuz/static/js/2.09e229d4.chunk.js.map",
     "static/js/3.1f032b28.chunk.js": "/MutantKaijuz/static/js/3.1f032b28.chunk.js",
     "static/js/3.1f032b28.chunk.js.map": "/MutantKaijuz/static/js/3.1f032b28.chunk.js.map",
     "index.html": "/MutantKaijuz/index.html",
     "static/css/main.26feb763.chunk.css.map": "/MutantKaijuz/static/css/main.26feb763.chunk.css.map",
-    "static/js/2.0d974b89.chunk.js.LICENSE.txt": "/MutantKaijuz/static/js/2.0d974b89.chunk.js.LICENSE.txt",
+    "static/js/2.09e229d4.chunk.js.LICENSE.txt": "/MutantKaijuz/static/js/2.09e229d4.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/MutantKaijuz/static/media/PixAntiqua.c1a9a13d.ttf",
     "static/media/gif2.a14fd248.gif": "/MutantKaijuz/static/media/gif2.a14fd248.gif",
     "static/media/image1.eaac5014.jpeg": "/MutantKaijuz/static/media/image1.eaac5014.jpeg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.adb1be2c.js",
-    "static/js/2.0d974b89.chunk.js",
+    "static/js/2.09e229d4.chunk.js",
     "static/css/main.26feb763.chunk.css",
-    "static/js/main.79898b8b.chunk.js"
+    "static/js/main.6cd8495a.chunk.js"
   ]
 }
